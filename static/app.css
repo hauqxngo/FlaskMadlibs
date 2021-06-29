@@ -1,0 +1,20 @@
+h1 {
+    color: white;
+    background-color: #98DDCA;
+    border: solid 2px white;
+    border-radius: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    border-radius: 5px;
+    background-color: #FBF7F0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
